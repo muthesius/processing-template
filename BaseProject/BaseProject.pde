@@ -1,27 +1,67 @@
-/**********************************************
- * Simple Sketch Base for interactive Projects
- * done in Processing http://processing.org
- *********************************************/
+/*************************************************
+ MY FANCY SKETCH SAVES THE WORLD
+ --------------------------------
+ Please describe what your sketch does - briefly
+ ************************************************/
 
-/**
- * Declare your variables here:
- */ 
+
+// VARS ----------------------------------------------------------------------
 int var; // For example
 
 
-/**
- * This is the setup routine called once at startup
- */
+// SETUP ---------------------------------------------------------------------
 void setup()
 {
+  // some basics
+  size(512,512);
+  smooth();
   // setup-code goes here
+
 }
 
-
-/**
- * This is the draw routine called repeatetly
- */
+// DRAW ----------------------------------------------------------------------
 void draw()
 {
   // draw-code goes here
+}
+
+
+
+// ACTIONS *******************************************************************
+
+// KEYS ----------------------------------------------------------------------
+void keyPressed()
+{
+
+}
+
+void keyReleased()
+{
+
+}
+
+// MOUSE ----------------------------------------------------------------------
+void mouseMoved()
+{
+
+}
+
+void mouseDragged()
+{
+
+}
+
+void mousePressed()
+{
+
+}
+
+void mouseReleased()
+{
+
+}
+
+void mouseClicked()
+{
+
 }
